@@ -68,8 +68,8 @@ go build -o filesafe ./cmd/filesafe/main.go
 filesafe/
  ├── cmd/
  │    └── main.go
- └── filesafe/
-      └── filesafe.go
+ └── translit/
+      └── translit.go
 ```
 
 ---
